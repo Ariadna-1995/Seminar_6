@@ -14,6 +14,7 @@ import java.util.Map;
 import static io.restassured.RestAssured.given;
 import static org.hamcrest.Matchers.lessThan;
 
+//Имя класса ForecastsFiveDaysTest отличается от имени файла ForecastsFiveDays
 public class ForecastsFiveDaysTest extends AccuweatherAbstractTest {
 
     @Test
